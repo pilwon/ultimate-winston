@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-winston",
+  "version": "0.1.0",
+  "description": "Winston plugin for `ultimate-seed`.",
+  "license": "MIT",
+  "author": "Pilwon Huh <pilwon@gmail.com>",
+  "homepage": "https://github.com/pilwon/node-ultimate-winston",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pilwon/node-ultimate-winston.git"
+  },
+  "keywords": [
+    "ultimate",
+    "winston"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
