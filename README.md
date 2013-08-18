@@ -1,6 +1,6 @@
 # ultimate-winston
 
-**Winston** plugin for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
+**Winston** plugin for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
 
 ## **★ This project is under development ★**
 
